@@ -1,8 +1,8 @@
 # youtube_clone
  
 # Technologies Used
-- eraser - data modeling
+- data modeling - eraser
 - programming language - JavaScript
 - backend - NodeJs, ExpressJs
 - database - MongoDB
-- others - nodemon, prettier
+- others - nodemon, prettier, mongoose
