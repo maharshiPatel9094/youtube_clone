@@ -4,3 +4,4 @@
 - eraser - data modeling
 - programming language - JavaScript
 - backend - NodeJs, ExpressJs
+- others - nodemon, prettier
