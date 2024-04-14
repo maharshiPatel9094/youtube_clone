@@ -6,3 +6,8 @@
 - backend - NodeJs, ExpressJs
 - database - MongoDB
 - others - nodemon, prettier, mongoose
+
+
+
+# Model Link 
+- https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj
