@@ -5,7 +5,7 @@
 - programming language - JavaScript
 - backend - NodeJs, ExpressJs
 - database - MongoDB
-- others - nodemon, prettier, mongoose, cloudinary, Multer
+- others - nodemon, prettier, mongoose, cloudinary, Multer, postman
 
 
 
